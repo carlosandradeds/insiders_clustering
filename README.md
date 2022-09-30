@@ -125,23 +125,23 @@ O desenho da arquitetura se encontra a seguir:
 
 ## 4. Os principais Insights gerados
 
-**H1 - Os clientes do cluster Loyals têm uma média de produtos únicos comprados acima de 10% do total de compras.**
+**H1 - Os clientes do cluster Insiders têm uma média de produtos únicos comprados acima de 10% do total de compras.**
 
-Verdadeiro: 50% do volume de produtos únicos veio do cluster Loyals.
+Verdadeiro: 50% do volume de produtos únicos veio do cluster Insiders.
 
-* Insight de negócio: Aplicar estratégias de marketing para oferecer produtos similares para os demais clusters, tomando como base os comprados pelos Loyals, visando reduzir a distância entre ambos neste quesito.
+* Insight de negócio: Aplicar estratégias de marketing para oferecer produtos similares para os demais clusters, tomando como base os comprados pelos Insiders, visando reduzir a distância entre ambos neste quesito.
 
-**H2 - Os clientes do cluster Loyals apresentam um número médio de devoluções 10% abaixo da média da base total de clientes.**
+**H2 - Os clientes do cluster Insiders apresentam um número médio de devoluções 10% abaixo da média da base total de clientes.**
 
 Falso: o cluster Insider tem um número médio de devoluções 256% maior que a média da base total de clientes.
 
-* Insight de negócio: Dado o número de devoluções bem acima do esperado, realizar levantamento detalhado de custos de logística reversa com área responsável, avaliando o impacto negativo frente as demais características positivas do Loyals.
+* Insight de negócio: Dado o número de devoluções bem acima do esperado, realizar levantamento detalhado de custos de logística reversa com área responsável, avaliando o impacto negativo frente as demais características positivas do Insiders.
 
-**H3 - A receita mediana do cluster Loyals é 10% maior que a receita mediana de todos os clusters.**
+**H3 - A receita mediana do cluster Insiders é 10% maior que a receita mediana de todos os clusters.**
 
-Verdadeiro: a receita mediana do cluster Loyals é 155% (1.5x) maior do que a receita mediana de todos os clusters.
+Verdadeiro: a receita mediana do cluster Insiders é 155% (1.5x) maior do que a receita mediana de todos os clusters.
 
-* Insight de negócio: Destinar time dedicado da área de marketing para cuidar do relacionamento com os Loyals, dada representatividade do faturamento dentro da empresa, em relação ao negócio.
+* Insight de negócio: Destinar time dedicado da área de marketing para cuidar do relacionamento com os Insiders, dada representatividade do faturamento dentro da empresa, em relação ao negócio.
 
 # 5. Modelos de Machine Learning aplicados
 Foram testados 4 modelos de clusterização: K-Means, GMM, Hierarchical Clustering, DBScan
