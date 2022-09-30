@@ -1,5 +1,7 @@
 # Programa de fidelidade para um E-Commerce
 
+![h](https://github.com/carlosandradeds/insiders_clustering/blob/main/data/img/fidelidade.jpg)
+
 O projeto consiste em identificar grupos de clientes, identificando os mais valiosos para um programa de fidelidade.
 
 O dados do projeto foram obtidos do Kaggle, do desafio "High Value Customers Identification"
