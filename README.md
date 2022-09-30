@@ -116,7 +116,9 @@ Minha estratégia para resolver esse desafio, baseado na metodologia CRISP-DS, �
 - Construir e validar o dashboard no Metabase.
 
 
-img
+O desenho da arquitetura se encontra a seguir:
+
+<img src="https://github.com/carlosandradeds/insiders_clustering/tree/main/data/img/diagramaclusteringfinal.jpg?raw=true" alt="diagramaclusteringfinal" title="Planejamento de Infraestrutura Local e em Cloud" align="center" height="600" class="center"/>
 
 
 ## 4. Os principais Insights gerados
@@ -156,17 +158,21 @@ Os modelos K-Means e GMM apresentaram bons resultados e os dois poderiam ser imp
 # 7. Resultado de Negócio
 As questões de negócio foram respondidas (As mesmas se encontram no notebook do ciclo 08)
 
-Referente a resultados financeiros, partimos do fato de que a receita mediana do cluster Loyals é (1.5x) maior do que a receita mediana de todos os clusters, como já exposto.
+Referente a resultados financeiros, partimos do fato de que a receita mediana do cluster Insiders é (1.5x) maior do que a receita mediana de todos os clusters, como já exposto.
 
 Com a premissa que o time de marketing da Sells All, através do projeto, aumentará em 10% o número de Insiders no próximo ano, teremos em 10% da base um aumento mediano de faturamento de 1.5x.
 
-O número de clientes Loyals no último ano (373 dias) é: 1786.
-O número de clientes Loyals esperado para o próximo ano é de: 1965.
+O número de clientes Insiders no último ano (373 dias) é: 1786.
+O número de clientes Insiders esperado para o próximo ano é de: 1965.
 Teremos portanto 179 novos clientes.
 
-Assumindo a mesma mediana de faturamento por Loyal, a expectativa de incremento de faturamento é de $280665.
+Assumindo a mesma mediana de faturamento por Insider, a expectativa de incremento de faturamento é de $280665.
 
 O detalhamento dos cálculos também encontra-se no Jupyter Notebook, no ciclo 8.
+
+A seguir o Dashboard gerado no Metabase:
+
+<img src="https://github.com/carlosandradeds/insiders_clustering/tree/main/data/img/dashboardfinal.png?raw=true" alt="dashboardfinal" title="Planejamento de Infraestrutura Local e em Cloud" align="center" height="600" class="center"/>
 
 
 # 8. Conclusões
