@@ -118,7 +118,7 @@ Minha estratégia para resolver esse desafio, baseado na metodologia CRISP-DS, �
 
 O desenho da arquitetura se encontra a seguir:
 
-<img src="https://github.com/carlosandradeds/insiders_clustering/tree/main/data/img/diagramaclusteringfinal.jpg?raw=true" alt="diagramaclusteringfinal" title="Planejamento de Infraestrutura Local e em Cloud" align="center" height="600" class="center"/>
+![h1](https://github.com/carlosandradeds/insiders_clustering/blob/main/data/img/diagramaclusteringfinal.jpg)
 
 
 ## 4. Os principais Insights gerados
@@ -172,7 +172,7 @@ O detalhamento dos cálculos também encontra-se no Jupyter Notebook, no ciclo 8
 
 A seguir o Dashboard gerado no Metabase:
 
-<img src="https://github.com/carlosandradeds/insiders_clustering/tree/main/data/img/dashboardfinal.png?raw=true" alt="dashboardfinal" title="Planejamento de Infraestrutura Local e em Cloud" align="center" height="600" class="center"/>
+![h2](https://github.com/carlosandradeds/insiders_clustering/blob/main/data/img/dashboardfinal.png)
 
 
 # 8. Conclusões
