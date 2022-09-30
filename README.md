@@ -162,11 +162,11 @@ Referente a resultados financeiros, partimos do fato de que a receita mediana do
 
 Com a premissa que o time de marketing da Sells All, através do projeto, aumentará em 10% o número de Insiders no próximo ano, teremos em 10% da base um aumento mediano de faturamento de 1.5x.
 
-O número de clientes Insiders no último ano (373 dias) é: 1786.
-O número de clientes Insiders esperado para o próximo ano é de: 1965.
-Teremos portanto 179 novos clientes.
+O número de clientes Insiders no último ano (373 dias) é: 721.
+O número de clientes Insiders esperado para o próximo ano é de: 793.
+Teremos portanto 72 novos clientes.
 
-Assumindo a mesma mediana de faturamento por Insider, a expectativa de incremento de faturamento é de $280665.
+Assumindo a mesma mediana de faturamento por Insider, a expectativa de incremento de faturamento é de $472255,00.
 
 O detalhamento dos cálculos também encontra-se no Jupyter Notebook, no ciclo 8.
 
