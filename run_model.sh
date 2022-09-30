@@ -1,4 +1,4 @@
 # variable
 data=$(date +'%Y-%m-%dT%H:%M:%S')
 
-papermill /home/ubuntu/src/models/c10.0.cmaq-Deploy.ipynb /home/ubuntu/reports/output-deploy-$data.ipynb
+papermill /home/ubuntu/insiders_clustering/src/models/c10.0.cmaq-Deploy.ipynb /home/ubuntu/insiders_clustering/reports/output-deploy-$data.ipynb
